@@ -1,19 +1,20 @@
 <h1>Loan Eligibility Prediction Model</h1>
-<p>This loan eligibility prediction model uses machine learning techniques to determine whether a loan applicant is eligible for a loan or not.The model takes various input features related to loan applicants (such as age, income, credit score, etc.) and predicts whether they are eligible for 
+<p>This loan eligibility prediction model is built with scikit-learn using Random Forest classifiers to predict loan eligibility.The model takes various input features related to loan applicants (such as dependants, income, credit history, etc.) and predicts whether they are eligible for 
 a loan or not.</p>
-<p>The model is built using sklearn random forest classifiers and trained on a labeled dataset.</p>
+<p>The model is trained on historical loan data and uses a supervised learning approach to make predictions.</p>
 
 <h2>Installation</h2>
 <p>Clone the repository:</p>
-git clone https://github.com/Husna-Hussein/Loan-Eligibility-Prediction.git
+<pre>git clone https://github.com/Husna-Hussein/Loan-Eligibility-Prediction.git</pre>
 
 <br><p>Install the required dependencies:</p>
-pip freeze > requirements.txt
+<pre>pip freeze > requirements.txt</pre>
+<br><pre>pip install scikit-learn</pre>
+
 
 <h2>Usage</h2>
-<p>Prepare your data by following the instructions in the Data section.</p>
  <p>Run the prediction model:</p>
- python app.py
+ <pre>python app.py</pre>
 
 <p>This will provide a web interface that allows you to enter the values of the input features for a loan applicant and display the prediction result.</p>
 <h2>Data</h2>
@@ -24,6 +25,7 @@ pip freeze > requirements.txt
 please open an issue or submit a pull request.</p>
 <p>Feel free to modify this template to fit your specific project's needs. Make sure to include relevant information about your loan eligibility prediction model, 
 how to install and use it,and any other details that would be helpful for users and contributors.</p>
+
 
 
 
