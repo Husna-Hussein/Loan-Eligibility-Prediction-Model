@@ -23,8 +23,7 @@ a loan or not.</p>
 <h2>Contributing</h2>
 <p>Contributions to this loan eligibility prediction model are welcome. If you find any issues or have suggestions for improvements, 
 please open an issue or submit a pull request.</p>
-<p>Feel free to modify this template to fit your specific project's needs. Make sure to include relevant information about your loan eligibility prediction model, 
-how to install and use it,and any other details that would be helpful for users and contributors.</p>
+<p>Happy loan eligibility prediction!</p>
 
 
 
