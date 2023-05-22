@@ -16,7 +16,8 @@ pip freeze > requirements.txt
 ```bash
 pip install scikit-learn
 ```
-
+# Data
+The dataset used for training and evaluation can be found in the data directory.
 
 # Usage
 Run the prediction model:
@@ -25,12 +26,7 @@ python app.py
 ```
 
 This will provide a web interface that allows you to enter the values of the input features for a loan applicant and display the prediction result.
-# Data
-The dataset used for training and evaluation can be found in the data directory.
 
-# Contributing
-Contributions to this loan eligibility prediction model are welcome. If you find any issues or have suggestions for improvements, 
-please open an issue or submit a pull request.
 Happy loan eligibility prediction!
 
 
