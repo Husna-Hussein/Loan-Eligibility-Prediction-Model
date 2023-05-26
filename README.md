@@ -6,7 +6,7 @@ The model is trained on historical loan data and uses a supervised learning appr
 # Installation
 Clone the repository:
 ```bash
-git clone https://github.com/Husna-Hussein/Loan-Eligibility-Prediction.git
+git clone https://github.com/Husna-Hussein/Loan-Eligibility-Prediction-Model.git
 ```
 
 Install the required dependencies:
